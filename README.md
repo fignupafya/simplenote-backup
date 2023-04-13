@@ -4,7 +4,7 @@ This Python script allows you to backup your Simplenote notes to your computer, 
 ## Requirements
 Python 3.x
 The simplenote package (install via pip install simplenote)
-### Usage
+## Usage
 Open the script and edit the mail and passw variables with your Simplenote email and password, respectively.
 Run the script in a Python environment (e.g., IDLE, PyCharm) or via the command line (python simplenote_backup.py).
 The script will create a folder named "Simplenote Backup" on your desktop and a subfolder with today's date (e.g., "simplenote_backup_13-04-2023").
