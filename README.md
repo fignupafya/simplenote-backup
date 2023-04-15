@@ -1,5 +1,5 @@
 # 💻 Simplenote Backup
-This Python script allows you to backup your Simplenote notes to your computer, by creating a folder on your desktop and saving each note as a text file.
+This Python script takes a backup of your Simplenote notes and saves each note as a separate text file locally on your computer in a specified directory.
 
 ## ⚙️ Requirements
 - Python 3.x
