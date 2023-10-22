@@ -9,3 +9,4 @@ print(mail)
 
 print("\nEncoded password:")
 print(password)
+input("")
